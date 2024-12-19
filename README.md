@@ -8,5 +8,5 @@ YEAR        :   Fall 2011
 CLASS ID    :   CNA 426  
 CLASS NM    :   Computer Networking II   
 CLASS PF    :   Dr. Tirthankar Ghosh  
-CREDITS     :   4.0  
+CREDITS     :   3.0  
 
